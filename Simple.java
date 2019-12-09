@@ -3,6 +3,7 @@ class Simple{
 
      System.out.println("Hello Java");
         System.out.println("my name is reddy");
+        System.out.println(" from kadapa");
         
 
     }  
